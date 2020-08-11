@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Diego Pérez Ruiz</title>
     <link>https://dapr12.github.io/</link>
       <atom:link href="https://dapr12.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <description>Diego Pérez Ruiz</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dapr12.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Academic</title>
+      <url>https://dapr12.github.io/images/icon_hu7e22483cc55b1a09eb52f310028ebab0_27379_512x512_fill_lanczos_center_2.png</url>
+      <title>Diego Pérez Ruiz</title>
       <link>https://dapr12.github.io/</link>
     </image>
     
@@ -18,6 +18,25 @@
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://dapr12.github.io/project/machinelearning/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling the prediction of hypoglycaemia by CGM in CHI</title>
+      <link>https://dapr12.github.io/project/prediction/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://dapr12.github.io/project/prediction/</guid>
+      <description>&lt;p&gt;Parents of children with complex diseases require easily understandable information about their disease to improve health outcomes. Improved disease understanding will allow better shared decision making between clinicians and families. Congenital hyperinsulinism (CHI) is a rare and complex disease of hypoglycaemia associated with significant neurodevelopmental morbidity. Children with inadequately controlled or inappropriately treated hypoglycaemia can have lifelong neurodisability with a significant consequential impact on the family, society and the NHS.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://healthinnovationmanchester.com/the-innovation-nexus/innovation-support/momentum-fund/&#34;&gt;https://healthinnovationmanchester.com/the-innovation-nexus/innovation-support/momentum-fund/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Modelling of Risks of Cycling Accidents. A case study of Greater Manchester</title>
+      <link>https://dapr12.github.io/project/probabilistic/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://dapr12.github.io/project/probabilistic/</guid>
+      <description>&lt;p&gt;Bicycling is an often overlooked means of transportation, both for commuting and for recreation which, in recent years, has gained in popularity. It is also an environmentally friendly, economical and healthy activity. Statistics, however, show that in last few decades cycling safety has been neglected comparing to driving safety. World Health Organisation’s Global Status Report on Road Safety (WHO 2013) states that 27% of global road traffic deaths were amongst pedestrians and cyclists. Further, only 27% residents of Greater Manchester think cycling is safe (Bike Life Greater Manchester 2017). Hence, cycling is mentioned as a part of the strategy to eliminate fatal road accidents Vision Zero, successfully implemented in cities of Sweden, Germany and the Netherlands. In the UK, in 2018, Transport for London published its Vision Zero action plan. Also, while the number of miles cycled by the British increased over the last years, cycling accounts for a small proportion of all the journeys.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

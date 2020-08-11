@@ -1,34 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Diego Pérez Ruiz</title>
-    <link>https://dapr12.github.io/project/</link>
-      <atom:link href="https://dapr12.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>Probabilistic | Diego Pérez Ruiz</title>
+    <link>https://dapr12.github.io/tag/probabilistic/</link>
+      <atom:link href="https://dapr12.github.io/tag/probabilistic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Probabilistic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dapr12.github.io/images/icon_hu7e22483cc55b1a09eb52f310028ebab0_27379_512x512_fill_lanczos_center_2.png</url>
-      <title>Projects</title>
-      <link>https://dapr12.github.io/project/</link>
+      <title>Probabilistic</title>
+      <link>https://dapr12.github.io/tag/probabilistic/</link>
     </image>
-    
-    <item>
-      <title>Machine learning for rare disease pattern recognition and analysis</title>
-      <link>https://dapr12.github.io/project/machinelearning/</link>
-      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://dapr12.github.io/project/machinelearning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modelling the prediction of hypoglycaemia by CGM in CHI</title>
-      <link>https://dapr12.github.io/project/prediction/</link>
-      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://dapr12.github.io/project/prediction/</guid>
-      <description>&lt;p&gt;Parents of children with complex diseases require easily understandable information about their disease to improve health outcomes. Improved disease understanding will allow better shared decision making between clinicians and families. Congenital hyperinsulinism (CHI) is a rare and complex disease of hypoglycaemia associated with significant neurodevelopmental morbidity. Children with inadequately controlled or inappropriately treated hypoglycaemia can have lifelong neurodisability with a significant consequential impact on the family, society and the NHS.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://healthinnovationmanchester.com/the-innovation-nexus/innovation-support/momentum-fund/&#34;&gt;https://healthinnovationmanchester.com/the-innovation-nexus/innovation-support/momentum-fund/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Probabilistic Modelling of Risks of Cycling Accidents. A case study of Greater Manchester</title>
