@@ -1,0 +1,213 @@
+---
+title: "Books"
+pagetitle: "Books | Diego Andrés Pérez Ruiz"
+description: "Books by Dr Diego Andrés Pérez Ruiz on statistics, statistical modelling, Julia, machine learning, foundation models and artificial intelligence for social scientists."
+---
+
+[Statistics, data science and artificial intelligence for the social sciences.]{.eyebrow}
+
+My books bridge mathematical foundations, statistical methodology and computational practice. They are designed for students, researchers and practitioners interested in developing rigorous, reproducible approaches to quantitative social science, from introductory statistics to modern artificial intelligence.
+
+<hr class="rule">
+
+## Julia for Social Scientists — The Book Series {.section-title}
+
+A four-volume series providing a progressive introduction to statistics, statistical modelling, machine learning and artificial intelligence using the Julia programming language.
+
+<!--
+  Covers: once the real cover images are saved in assets/books/ (vol1.jpg … vol4.jpg),
+  replace each <div class="book-cover placeholder"> block below with
+  <img class="book-cover" src="assets/books/volN.jpg" alt="Cover of TITLE">
+-->
+
+:::::: {.book-grid}
+
+::::: {.book}
+::: {.book-cover .placeholder aria-hidden="true"}
+[Vol. I]{.ph-vol}
+[Using Julia for Introductory Statistics in Social Sciences]{.ph-title}
+:::
+:::: {.book-info}
+[Volume I · Published]{.book-kicker}
+
+[Using Julia for Introductory Statistics in Social Sciences]{.book-title role="heading" aria-level="3"}
+
+[Dr Diego Andrés Pérez Ruiz]{.book-author}
+
+An introduction to statistical reasoning, probability, exploratory data analysis and statistical inference using Julia. Designed to establish the mathematical and computational foundations of quantitative social science.
+
+[Paperback · 8 October 2026 · Book 1 of 4]{.book-facts}
+
+[Search on Amazon →](https://www.amazon.co.uk/s?k=Using+Julia+for+Introductory+Statistics+in+Social+Sciences+Perez+Ruiz){.book-link}
+::::
+:::::
+
+::::: {.book}
+::: {.book-cover .placeholder aria-hidden="true"}
+[Vol. II]{.ph-vol}
+[Intermediate Statistical Modelling with Julia]{.ph-title}
+:::
+:::: {.book-info}
+[Volume II · Published]{.book-kicker}
+
+[Intermediate Statistical Modelling with Julia]{.book-title role="heading" aria-level="3"}
+
+[Dr Diego Andrés Pérez Ruiz]{.book-author}
+
+A continuation of the introductory volume, focusing on statistical modelling and computational methods for more advanced quantitative research.
+
+[Paperback · 13 October 2026 · Book 2 of 4]{.book-facts}
+
+[Search on Amazon →](https://www.amazon.co.uk/s?k=Intermediate+Statistical+Modelling+with+Julia+Perez+Ruiz){.book-link}
+::::
+:::::
+
+::::: {.book}
+::: {.book-cover .placeholder aria-hidden="true"}
+[Vol. III]{.ph-vol}
+[Advanced Data Science and Machine Learning with Julia for Social Scientists]{.ph-title}
+:::
+:::: {.book-info}
+[Volume III · Published]{.book-kicker}
+
+[Advanced Data Science and Machine Learning with Julia for Social Scientists]{.book-title role="heading" aria-level="3"}
+
+[Dr Diego Andrés Pérez Ruiz]{.book-author}
+
+An advanced treatment of computational statistics, machine learning and data science methodologies, connecting mathematical foundations with practical applications in social science research.
+
+[Paperback · 13 October 2026 · Book 3 of 4]{.book-facts}
+
+[Search on Amazon →](https://www.amazon.co.uk/s?k=Advanced+Data+Science+and+Machine+Learning+with+Julia+for+Social+Scientists){.book-link}
+::::
+:::::
+
+::::: {.book}
+::: {.book-cover .placeholder aria-hidden="true"}
+[Vol. IV]{.ph-vol}
+[Foundation Models and Agentic AI with Julia for Social Scientists]{.ph-title}
+:::
+:::: {.book-info}
+[Volume IV · Published]{.book-kicker}
+
+[Foundation Models and Agentic AI with Julia for Social Scientists]{.book-title role="heading" aria-level="3"}
+
+[Dr Diego Andrés Pérez Ruiz]{.book-author}
+
+An exploration of modern artificial intelligence, foundation models and agentic systems, connecting computational principles with emerging applications in social science research.
+
+[Paperback · 20 October 2026 · Book 4 of 4]{.book-facts}
+
+[View on Amazon →](https://www.amazon.co.uk/dp/B0HNP8TNBR){.book-link}
+::::
+:::::
+
+::::::
+
+<hr class="rule">
+
+## Current Book Projects {.section-title}
+
+:::::: {.book-grid}
+
+::::: {.book}
+::: {.book-cover .placeholder .wip aria-hidden="true"}
+[In development]{.ph-vol}
+[Transformers and Large Language Models]{.ph-title}
+:::
+:::: {.book-info}
+[In development · Working title]{.book-kicker}
+
+[Transformers and Large Language Models]{.book-title role="heading" aria-level="3"}
+
+[Dr Diego Andrés Pérez Ruiz]{.book-author}
+
+A technical textbook exploring the mathematical and computational foundations of Transformers and large language models. The intended audience includes advanced undergraduate students, postgraduate students and researchers.
+
+::: {.book-themes}
+- Mathematical foundations of deep learning
+- Attention mechanisms
+- Transformer architectures
+- Tokenisation and embeddings
+- Large language model training
+- Inference and reasoning
+- Computational implementation
+- Modern AI architectures
+:::
+::::
+:::::
+
+::::: {.book}
+::: {.book-cover .placeholder .wip aria-hidden="true"}
+[En desarrollo]{.ph-vol}
+[Claude y otros demonios]{.ph-title lang="es"}
+:::
+:::: {.book-info}
+[In development · Working title · Spanish]{.book-kicker}
+
+[Claude y otros demonios]{.book-title role="heading" aria-level="3" lang="es"}
+
+[Dr Diego Andrés Pérez Ruiz]{.book-author}
+
+A book exploring artificial intelligence and its wider intellectual, philosophical and social implications, examining the changing relationship between human intelligence, technology and contemporary society.
+::::
+:::::
+
+::::::
+
+```{=html}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BookSeries",
+      "@id": "https://dapr12.github.io/books.html#julia-series",
+      "name": "Julia for Social Scientists",
+      "author": {"@type": "Person", "name": "Diego Andrés Pérez Ruiz"}
+    },
+    {
+      "@type": "Book",
+      "name": "Using Julia for Introductory Statistics in Social Sciences",
+      "author": {"@type": "Person", "name": "Diego Andrés Pérez Ruiz"},
+      "bookFormat": "https://schema.org/Paperback",
+      "datePublished": "2026-10-08",
+      "inLanguage": "en",
+      "position": 1,
+      "isPartOf": {"@id": "https://dapr12.github.io/books.html#julia-series"}
+    },
+    {
+      "@type": "Book",
+      "name": "Intermediate Statistical Modelling with Julia",
+      "author": {"@type": "Person", "name": "Diego Andrés Pérez Ruiz"},
+      "bookFormat": "https://schema.org/Paperback",
+      "datePublished": "2026-10-13",
+      "inLanguage": "en",
+      "position": 2,
+      "isPartOf": {"@id": "https://dapr12.github.io/books.html#julia-series"}
+    },
+    {
+      "@type": "Book",
+      "name": "Advanced Data Science and Machine Learning with Julia for Social Scientists",
+      "author": {"@type": "Person", "name": "Diego Andrés Pérez Ruiz"},
+      "bookFormat": "https://schema.org/Paperback",
+      "datePublished": "2026-10-13",
+      "inLanguage": "en",
+      "position": 3,
+      "isPartOf": {"@id": "https://dapr12.github.io/books.html#julia-series"}
+    },
+    {
+      "@type": "Book",
+      "name": "Foundation Models and Agentic AI with Julia for Social Scientists",
+      "author": {"@type": "Person", "name": "Diego Andrés Pérez Ruiz"},
+      "bookFormat": "https://schema.org/Paperback",
+      "datePublished": "2026-10-20",
+      "inLanguage": "en",
+      "position": 4,
+      "url": "https://www.amazon.co.uk/dp/B0HNP8TNBR",
+      "isPartOf": {"@id": "https://dapr12.github.io/books.html#julia-series"}
+    }
+  ]
+}
+</script>
+```

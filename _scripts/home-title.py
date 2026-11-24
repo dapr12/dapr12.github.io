@@ -1,13 +1,16 @@
 # Post-render step: Quarto appends " – <site title>" to every page <title>.
-# The homepage sets a complete title of its own ("Name | Role"), so strip the
-# suffix from index.html only. Other pages keep Quarto's default behaviour.
+# Pages listed in PAGES set a complete title of their own ("A | B"), so strip
+# the suffix from those only. Other pages keep Quarto's default behaviour.
 import os
 import re
 
 out_dir = os.environ.get("QUARTO_PROJECT_OUTPUT_DIR", "_site")
-path = os.path.join(out_dir, "index.html")
+PAGES = ["index.html", "books.html"]
 
-if os.path.exists(path):
+for page in PAGES:
+    path = os.path.join(out_dir, page)
+    if not os.path.exists(path):
+        continue
     with open(path, encoding="utf-8") as f:
         html = f.read()
     fixed = re.sub(r"<title>([^<|]+\|[^<]+?) – [^<]+</title>", r"<title>\1</title>", html, count=1)

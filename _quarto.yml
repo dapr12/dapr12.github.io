@@ -30,6 +30,8 @@ website:
         text: Teaching
       - href: podcast/index.qmd
         text: AI Podcast
+      - href: books.qmd
+        text: Books
       - href: publications/index.qmd
         text: Latest Publications
       - href: blog/index.qmd

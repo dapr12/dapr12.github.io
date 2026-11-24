@@ -292,3 +292,90 @@ h2.section-title {
 @media (max-width: 720px) {
   .pillars { grid-template-columns: 1fr; }
 }
+
+/* ---- Books: catalogue ---- */
+.book-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 2.2rem 2.5rem;
+  margin: 1.6rem 0 0.5rem;
+}
+.book {
+  display: grid;
+  grid-template-columns: 112px 1fr;
+  gap: 1.2rem;
+  align-items: start;
+}
+.book-cover {
+  width: 100%;
+  aspect-ratio: 2 / 3;
+  object-fit: cover;
+  border-radius: 2px;
+  box-shadow: 0 1px 0 var(--line), 0 6px 16px rgba(0, 0, 0, 0.08);
+}
+/* Neutral typographic placeholder until real covers are added */
+.book-cover.placeholder {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 0.7rem 0.6rem;
+  border: 1px solid var(--line);
+  border-top: 3px solid var(--accent);
+  background: var(--paper-2);
+  box-shadow: none;
+  text-decoration: none;
+  overflow: hidden;
+}
+.book-cover.placeholder.wip { border-top-style: dashed; border-top-color: var(--muted); }
+.ph-vol {
+  font-family: var(--font-mono);
+  font-size: 0.66rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+.ph-title {
+  font-family: var(--font-display);
+  font-size: 0.8rem;
+  line-height: 1.2;
+  color: var(--ink);
+}
+.book-kicker {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+.book-title {
+  display: block;
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 1.15rem;
+  line-height: 1.25;
+  margin: 0.25rem 0 0.2rem;
+  color: var(--ink);
+}
+.book-author { font-size: 0.9rem; color: var(--muted); }
+.book-info p { margin: 0 0 0.55rem; }
+.book-info p:not(:has(> span, > a)) { color: var(--muted); font-size: 0.95rem; }
+.book-facts { font-family: var(--font-mono); font-size: 0.76rem; color: var(--muted); }
+.book-link { font-family: var(--font-mono); font-size: 0.82rem; }
+.book-themes ul { margin: 0.3rem 0 0; padding-left: 1.1rem; color: var(--muted); font-size: 0.92rem; }
+
+/* ---- Home: compact book strip ---- */
+.book-strip {
+  list-style: none;
+  padding: 0;
+  margin: 1.4rem 0 1.6rem;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1rem;
+  max-width: 560px;
+}
+.book-strip a.book-cover:hover { border-color: var(--accent-2); }
+
+@media (max-width: 720px) {
+  .book-grid { grid-template-columns: 1fr; }
+  .book-strip { grid-template-columns: repeat(2, minmax(0, 1fr)); max-width: 300px; }
+}
