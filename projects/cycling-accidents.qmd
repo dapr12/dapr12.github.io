@@ -1,0 +1,15 @@
+---
+title: "Probabilistic modelling of cycling-accident risk"
+description: "A case study of cycling-accident risk across Greater Manchester."
+date: 2018-06-01
+categories: [Statistics, Urban]
+---
+
+## Overview
+
+Cycling is an often-overlooked mode of transport for both commuting and recreation, and one that has grown in popularity — while being environmentally friendly, economical, and healthy. This project builds probabilistic models of cycling-accident risk, using Greater Manchester as a case study.
+
+## Notes
+
+- Spatial risk modelling across the Greater Manchester road network.
+- Communicating uncertainty in a way that's useful for policy and planning.

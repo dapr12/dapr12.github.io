@@ -1,0 +1,17 @@
+---
+title: "Machine learning for rare-disease pattern recognition"
+description: "Pipelines to process biomedical data, extract features, and classify rare and undiagnosed diseases."
+date: 2020-01-01
+categories: [Machine learning, Health]
+---
+
+## Overview
+
+Building pipelines to process large biomedical datasets, extract the features of interest, and perform classification for rare and undiagnosed diseases. The aim is to surface patterns that are hard to detect at the scale and noise level of real clinical data.
+
+## Notes
+
+- Feature extraction and classification on high-dimensional biomedical data.
+- Emphasis on reproducibility and interpretable outputs for clinical collaborators.
+
+*Replace this text with a fuller write-up, figures, or embedded analysis whenever you're ready — this page can run live R/Python/Julia code.*

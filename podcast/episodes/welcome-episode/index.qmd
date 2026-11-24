@@ -1,0 +1,18 @@
+---
+title: "Episode 1 — Pilot"
+description: "A first conversation: what this podcast is about and where it's headed."
+date: 2026-01-25
+categories: [Machine learning]
+---
+
+A short intro episode. Replace this text with show notes, guest bios, and links.
+
+## Listen
+
+Embed a player by pasting the "share → embed" code from your podcast host, or put an audio file in this folder and add an `<audio controls src="episode-01.mp3">` element here.
+
+## Show notes
+
+- Topic one
+- Topic two
+- Links mentioned

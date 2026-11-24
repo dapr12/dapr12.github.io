@@ -1,0 +1,32 @@
+---
+title: "Contact"
+---
+
+[Get in touch]{.eyebrow}
+
+I'm based at the University of Manchester, Oxford Rd, Manchester M13 9PL.
+
+The quickest way to reach me:
+
+::: {.social}
+[Email](mailto:your.email@example.com) ·
+[GitHub](https://github.com/dapr12) ·
+[Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=BiUfLu8AAAAJ)
+:::
+
+<hr class="rule">
+
+::: {.callout-tip appearance="simple"}
+**Want a working contact form?** Quarto sites are static, so a form needs a small third-party service. [Formspree](https://formspree.io) is the simplest: create a free form, then drop its endpoint into the HTML below and uncomment it.
+:::
+
+```{=html}
+<!--
+<form action="https://formspree.io/f/YOUR_ID" method="POST" style="max-width:520px;">
+  <p><label>Name<br><input type="text" name="name" required style="width:100%;padding:.5rem;"></label></p>
+  <p><label>Email<br><input type="email" name="email" required style="width:100%;padding:.5rem;"></label></p>
+  <p><label>Message<br><textarea name="message" rows="5" required style="width:100%;padding:.5rem;"></textarea></label></p>
+  <button class="btn-pine solid" type="submit">Send</button>
+</form>
+-->
+```

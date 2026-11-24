@@ -1,0 +1,21 @@
+---
+title: "AI Podcast"
+listing:
+  contents: episodes
+  sort: "date desc"
+  type: default
+  fields: [title, description, date]
+  feed: true
+---
+
+[Conversations on AI & statistics]{.eyebrow}
+
+A podcast about machine learning, statistics, and the people building with them — accessible discussions that connect methods to real-world use. New episodes are listed below.
+
+::: {.social}
+[Apple Podcasts](#) ·
+[Spotify](#) ·
+[RSS](index.xml)
+:::
+
+<hr class="rule">

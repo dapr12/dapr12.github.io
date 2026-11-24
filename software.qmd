@@ -1,0 +1,77 @@
+---
+title: "Software"
+---
+
+[Code & tools]{.eyebrow}
+
+Open-source packages, analysis code, and apps I build and maintain — mostly around statistics, functional data, and making methods easier to use. Most of it lives on [GitHub](https://github.com/dapr12).
+
+::: {.callout-note appearance="simple"}
+The cards below are placeholders. Replace the names, descriptions, and links with your real repositories — duplicate a `::: {.repo}` block for each one.
+:::
+
+## R
+
+Statistical methods and analysis code in R.
+
+:::: {.repo-grid}
+::: {.repo}
+[pkgname]{.repo-name}
+
+An R package for functional-data methods — short description of what it does.
+
+[GitHub →](https://github.com/dapr12){.repo-link}
+:::
+
+::: {.repo}
+[analysis-scripts]{.repo-name}
+
+Reproducible analysis code and helper functions used across projects.
+
+[GitHub →](https://github.com/dapr12){.repo-link}
+:::
+::::
+
+## Julia
+
+High-performance implementations and experiments in Julia.
+
+:::: {.repo-grid}
+::: {.repo}
+[JuliaPkg.jl]{.repo-name}
+
+A Julia package for fast nonparametric estimation — short description.
+
+[GitHub →](https://github.com/dapr12){.repo-link}
+:::
+
+::: {.repo}
+[experiments]{.repo-name}
+
+Benchmarks and numerical experiments comparing methods.
+
+[GitHub →](https://github.com/dapr12){.repo-link}
+:::
+::::
+
+## Apps
+
+Interactive tools, dashboards, and web apps that make methods usable without code.
+
+:::: {.repo-grid}
+::: {.repo}
+[shiny-explorer]{.repo-name}
+
+A Shiny app for exploring a dataset or model interactively.
+
+[Launch →](#){.repo-link} · [Source →](https://github.com/dapr12){.repo-link}
+:::
+
+::: {.repo}
+[dashboard]{.repo-name}
+
+A small dashboard built with Quarto / Observable.
+
+[Launch →](#){.repo-link} · [Source →](https://github.com/dapr12){.repo-link}
+:::
+::::

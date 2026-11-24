@@ -1,0 +1,59 @@
+project:
+  type: website
+  output-dir: _site
+  preview:
+    port: 4200
+  resources:
+    - assets/cv.pdf
+
+website:
+  title: "Diego Perez Ruiz"
+  description: "Statistician and data analyst working on functional data and nonparametric statistics at the University of Manchester."
+  site-url: https://dapr12.github.io
+  favicon: assets/avatar.svg
+  navbar:
+    pinned: true
+    collapse-below: lg
+    logo: assets/avatar.svg
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: projects/index.qmd
+        text: Projects
+      - href: software.qmd
+        text: Software
+      - href: teaching.qmd
+        text: Teaching
+      - href: podcast/index.qmd
+        text: AI Podcast
+      - href: publications/index.qmd
+        text: Latest Publications
+      - href: blog/index.qmd
+        text: Blog
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/dapr12
+        aria-label: GitHub
+      - icon: mortarboard-fill
+        href: https://scholar.google.co.uk/citations?hl=en&user=BiUfLu8AAAAJ
+        aria-label: Google Scholar
+  page-footer:
+    left: "© 2026 Diego Perez Ruiz"
+    center: "Built with [Quarto](https://quarto.org)"
+    right: "The University of Manchester · Manchester, UK"
+
+format:
+  html:
+    theme:
+      light: [cosmo, theme.scss]
+      dark: [cosmo, theme-dark.scss]
+    css: styles.css
+    toc: false
+    anchor-sections: true
+    link-external-newwindow: true
+    grid:
+      body-width: 900px

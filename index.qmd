@@ -1,0 +1,59 @@
+---
+pagetitle: "Diego Perez Ruiz"
+---
+
+:::: {.hero}
+
+::: {.hero-text}
+[Statistician · Data Analyst]{.eyebrow}
+
+# Diego Perez Ruiz {.hero-title}
+
+::: {.hero-lede}
+I work on functional data and nonparametric statistics — [sorting through data to separate the consistent patterns from the noise.]{.thesis}
+:::
+
+::: {.actions}
+[About me](about.qmd){.btn-pine .solid}
+[Projects](projects/index.qmd){.btn-pine .ghost}
+[Download CV](assets/cv.pdf){.btn-pine .ghost}
+:::
+
+::: {.social}
+[GitHub](https://github.com/dapr12) ·
+[Scholar](https://scholar.google.co.uk/citations?hl=en&user=BiUfLu8AAAAJ) ·
+[Email](contact.qmd)
+:::
+:::
+
+::: {.hero-figure}
+```{=html}
+<svg viewBox="0 0 640 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Overlapping kernel density estimates">
+  <path d="M40 180 C 140 180, 180 50, 260 50 C 340 50, 380 180, 480 180 L 480 180 L 40 180 Z" style="fill:var(--band)"/>
+  <path d="M40 180 C 140 180, 180 50, 260 50 C 340 50, 380 180, 480 180" fill="none" style="stroke:var(--accent)" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="M150 180 C 250 180, 300 26, 360 26 C 420 26, 470 180, 590 180" fill="none" style="stroke:var(--accent-2)" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M20 180 C 100 180, 140 96, 200 96 C 260 96, 300 180, 380 180" fill="none" style="stroke:var(--muted)" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="1 6"/>
+  <line x1="20" y1="180" x2="620" y2="180" style="stroke:var(--line)" stroke-width="1.2"/>
+</svg>
+```
+:::
+
+::::
+
+[Currently]{.eyebrow}
+
+I'm a **Data Analyst** at Mosscare St Vincent's Housing Group in Manchester, and previously a **Research Associate in Statistics** at the University of Manchester. My interests sit at the meeting point of statistical theory and machine learning: functional data analysis, nonparametric methods, and the challenge of turning large, noisy datasets into something you can actually reason about.
+
+<hr class="rule">
+
+[Focus areas]{.eyebrow}
+
+::: {.chips}
+[Functional data]{.chip}
+[Nonparametric statistics]{.chip}
+[Machine learning]{.chip}
+[Deep learning]{.chip}
+[R]{.chip}
+[Python]{.chip}
+[Julia]{.chip}
+:::

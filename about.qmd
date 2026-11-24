@@ -1,0 +1,118 @@
+---
+title: "About"
+---
+
+:::: {.profile}
+
+::: {.profile-card}
+```{=html}
+<img class="profile-photo" src="assets/profile.jpg" alt="Diego Perez Ruiz">
+<div class="profile-name">Diego Perez Ruiz</div>
+<div class="profile-role">Statistician &amp; Data Analyst</div>
+<nav class="profile-social" aria-label="Social links">
+  <a href="https://github.com/dapr12" aria-label="GitHub"><i class="bi bi-github"></i></a>
+  <a href="https://scholar.google.co.uk/citations?hl=en&amp;user=BiUfLu8AAAAJ" aria-label="Google Scholar"><i class="bi bi-mortarboard-fill"></i></a>
+  <a href="contact.qmd" aria-label="Email"><i class="bi bi-envelope-fill"></i></a>
+</nav>
+```
+:::
+
+::: {.profile-intro}
+## Hello, and welcome {.intro-head}
+
+Thanks for stopping by. I'm a statistician and data analyst based in Manchester, working at the meeting point of statistical theory and machine learning.
+
+My work centres on **functional data** and **nonparametric statistics** — methods for making sense of large, noisy datasets and separating the consistent patterns from the noise. I currently work as a Data Analyst at Mosscare St Vincent's Housing Group, and previously held research posts in statistics at the University of Manchester.
+
+You can see what I've been building on the [Projects](projects/index.qmd) and [Software](software.qmd) pages, or get in touch [here](contact.qmd).
+:::
+
+::::
+
+<hr class="rule">
+
+[Biography]{.eyebrow}
+
+I am broadly interested in statistical theory and methodology, with a particular focus on functional data and nonparametric statistics. Statistics matters more than ever because of the ease with which we now collect large amounts of data — and the real challenge is sorting through it to separate consistent patterns from noise. How best to use the tools that let us do that is the focus of my work.
+
+I completed my PhD in Mathematical Sciences at the University of Manchester. Before Manchester, I did an MSc in Statistics and Probability at the Center for Mathematical Research (CIMAT), and prior to that a BSc in Applied Mathematics and Computer Science at the National Autonomous University of Mexico (UNAM).
+
+<hr class="rule">
+
+[Education]{.eyebrow}
+
+:::: {.entry}
+::: {.when}
+2019
+:::
+::: {.what}
+### PhD, Mathematical Sciences
+[The University of Manchester]{.where}
+:::
+::::
+
+:::: {.entry}
+::: {.when}
+2013
+:::
+::: {.what}
+### MSc, Probability & Statistics
+[Center for Mathematical Research (CIMAT)]{.where}
+:::
+::::
+
+:::: {.entry}
+::: {.when}
+2008
+:::
+::: {.what}
+### BSc, Applied Mathematics & Computer Science
+[National Autonomous University of Mexico (UNAM)]{.where}
+:::
+::::
+
+<hr class="rule">
+
+[Experience]{.eyebrow}
+
+:::: {.entry}
+::: {.when}
+Dec 2019 — Present
+:::
+::: {.what}
+### Data Analyst
+[Mosscare St Vincent's Housing Group]{.where}
+
+Developing and maintaining asset-management databases that support the procurement, monitoring, and review of asset-investment programmes.
+:::
+::::
+
+:::: {.entry}
+::: {.when}
+Sep — Nov 2019
+:::
+::: {.what}
+### Research Associate in Statistics
+[University of Manchester — Dept. of Mathematics]{.where}
+
+Modelling the prediction of hypoglycaemia from continuous glucose monitoring in congenital hyperinsulinism (CHI).
+:::
+::::
+
+:::: {.entry}
+::: {.when}
+Apr — Aug 2018
+:::
+::: {.what}
+### Research Assistant in Statistics
+[The University of Manchester]{.where}
+
+Carried a specific research agenda under the supervision of Prof. Wendy Olsen.
+:::
+::::
+
+<hr class="rule">
+
+[Beyond work]{.eyebrow}
+
+Away from the keyboard you'll find me running 10Ks, swimming, and playing chess.

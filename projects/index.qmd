@@ -1,0 +1,16 @@
+---
+title: "Projects"
+listing:
+  contents: "*.qmd"
+  exclude:
+    title: "Projects"
+  type: grid
+  sort: "date desc"
+  categories: true
+  fields: [title, description, categories]
+  grid-columns: 2
+---
+
+[Selected work]{.eyebrow}
+
+A few projects at the intersection of statistics, machine learning, and applied research.

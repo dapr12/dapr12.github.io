@@ -1,0 +1,21 @@
+---
+title: "Hello from a Quarto site"
+description: "A first post, and a quick note on why the site moved to Quarto."
+date: 2026-01-20
+categories: [Meta]
+---
+
+Welcome to the new site. It's built with [Quarto](https://quarto.org), which means posts like this one can mix prose with live R, Python, or Julia — the same tools I use day to day.
+
+Here's a code block to prove the point (display-only for now):
+
+```r
+library(ggplot2)
+
+# kernel density estimate — the motif in the site logo
+ggplot(faithful, aes(waiting)) +
+  geom_density(fill = "#1E5C4A", alpha = 0.15, colour = "#1E5C4A") +
+  theme_minimal()
+```
+
+To make code actually execute when the site builds, install R (or Python/Julia) and set `execute: true` in the front matter. More soon.

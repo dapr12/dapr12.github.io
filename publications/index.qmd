@@ -1,0 +1,32 @@
+---
+title: "Latest Publications"
+---
+
+[Research output]{.eyebrow}
+
+A list of publications and preprints. The full and most current record lives on [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=BiUfLu8AAAAJ).
+
+<hr class="rule">
+
+::: {.callout-note appearance="simple"}
+**Add your publications here.** Two easy options:
+
+1. **List them by hand** below, one per entry — quickest to start.
+2. **Cite from a `.bib` file** — put entries in `references.bib` and reference them with `[@key]`, then add `bibliography: references.bib` to this page's front matter. Quarto formats the reference list automatically.
+:::
+
+## 2024
+
+:::: {.entry}
+::: {.when}
+2024
+:::
+::: {.what}
+### Your paper title goes here
+[Journal or venue · co-authors]{.where}
+
+Short summary of the contribution. [PDF](#){.btn-pine .ghost} [DOI](#){.btn-pine .ghost}
+:::
+::::
+
+*Duplicate the block above for each publication, or switch to the `.bib` workflow described in the note.*

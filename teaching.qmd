@@ -1,0 +1,45 @@
+---
+title: "Teaching"
+---
+
+[In the classroom]{.eyebrow}
+
+Courses, workshops, and supervision in statistics, data analysis, and scientific computing. I care about making statistical ideas usable — helping people move from "what does this output mean?" to reasoning confidently about their own data.
+
+<hr class="rule">
+
+[Courses & workshops]{.eyebrow}
+
+:::: {.entry}
+::: {.when}
+Year
+:::
+::: {.what}
+### Course or workshop title
+[Institution · role (lecturer / TA / instructor)]{.where}
+
+One or two lines on the topic, level, and tools used (R / Python / Julia).
+:::
+::::
+
+:::: {.entry}
+::: {.when}
+Year
+:::
+::: {.what}
+### Another course or workshop
+[Institution · role]{.where}
+
+Short description.
+:::
+::::
+
+::: {.callout-note appearance="simple"}
+Replace the two entries above with your real teaching. Duplicate the `::: {.entry}` block for each one — same format as the Experience section on the About page.
+:::
+
+<hr class="rule">
+
+[Materials]{.eyebrow}
+
+Link to slides, notebooks, or repositories here — for example a [GitHub repo](https://github.com/dapr12) of course materials, or published notes.

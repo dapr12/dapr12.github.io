@@ -1,0 +1,15 @@
+---
+title: "Predicting hypoglycaemia from CGM in CHI"
+description: "Modelling the prediction of hypoglycaemia by continuous glucose monitoring in congenital hyperinsulinism."
+date: 2019-10-01
+categories: [Statistics, Health]
+---
+
+## Overview
+
+Modelling the prediction of hypoglycaemia from continuous glucose monitoring (CGM) in congenital hyperinsulinism (CHI). Parents of children with complex diseases need clear, understandable information about the condition to improve health outcomes — a goal that shaped both the modelling and how results were communicated.
+
+## Notes
+
+- Time-series and functional-data perspectives on CGM traces.
+- Prediction framed around actionable, interpretable thresholds.
