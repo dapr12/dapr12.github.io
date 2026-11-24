@@ -1,8 +1,9 @@
 ---
-title: "Books"
 pagetitle: "Books | Diego Andrés Pérez Ruiz"
 description: "Books by Dr Diego Andrés Pérez Ruiz on statistics, statistical modelling, Julia, machine learning, foundation models and artificial intelligence for social scientists."
 ---
+
+# Books {.page-title}
 
 [Statistics, data science and artificial intelligence for the social sciences.]{.eyebrow}
 
@@ -16,17 +17,16 @@ A four-volume series providing a progressive introduction to statistics, statist
 
 <!--
   Covers: once the real cover images are saved in assets/books/ (vol1.jpg … vol4.jpg),
-  replace each <div class="book-cover placeholder"> block below with
+  replace each <div class="book-cover cover-ph"> block below with
   <img class="book-cover" src="assets/books/volN.jpg" alt="Cover of TITLE">
 -->
 
 :::::: {.book-grid}
 
 ::::: {.book}
-::: {.book-cover .placeholder aria-hidden="true"}
-[Vol. I]{.ph-vol}
-[Using Julia for Introductory Statistics in Social Sciences]{.ph-title}
-:::
+```{=html}
+<div class="book-cover cover-ph" aria-hidden="true"><span class="ph-vol">Vol. I</span><span class="ph-title">Using Julia for Introductory Statistics in Social Sciences</span></div>
+```
 :::: {.book-info}
 [Volume I · Published]{.book-kicker}
 
@@ -43,10 +43,9 @@ An introduction to statistical reasoning, probability, exploratory data analysis
 :::::
 
 ::::: {.book}
-::: {.book-cover .placeholder aria-hidden="true"}
-[Vol. II]{.ph-vol}
-[Intermediate Statistical Modelling with Julia]{.ph-title}
-:::
+```{=html}
+<div class="book-cover cover-ph" aria-hidden="true"><span class="ph-vol">Vol. II</span><span class="ph-title">Intermediate Statistical Modelling with Julia</span></div>
+```
 :::: {.book-info}
 [Volume II · Published]{.book-kicker}
 
@@ -63,10 +62,9 @@ A continuation of the introductory volume, focusing on statistical modelling and
 :::::
 
 ::::: {.book}
-::: {.book-cover .placeholder aria-hidden="true"}
-[Vol. III]{.ph-vol}
-[Advanced Data Science and Machine Learning with Julia for Social Scientists]{.ph-title}
-:::
+```{=html}
+<div class="book-cover cover-ph" aria-hidden="true"><span class="ph-vol">Vol. III</span><span class="ph-title">Advanced Data Science and Machine Learning with Julia for Social Scientists</span></div>
+```
 :::: {.book-info}
 [Volume III · Published]{.book-kicker}
 
@@ -83,10 +81,9 @@ An advanced treatment of computational statistics, machine learning and data sci
 :::::
 
 ::::: {.book}
-::: {.book-cover .placeholder aria-hidden="true"}
-[Vol. IV]{.ph-vol}
-[Foundation Models and Agentic AI with Julia for Social Scientists]{.ph-title}
-:::
+```{=html}
+<div class="book-cover cover-ph" aria-hidden="true"><span class="ph-vol">Vol. IV</span><span class="ph-title">Foundation Models and Agentic AI with Julia for Social Scientists</span></div>
+```
 :::: {.book-info}
 [Volume IV · Published]{.book-kicker}
 
@@ -111,10 +108,9 @@ An exploration of modern artificial intelligence, foundation models and agentic 
 :::::: {.book-grid}
 
 ::::: {.book}
-::: {.book-cover .placeholder .wip aria-hidden="true"}
-[In development]{.ph-vol}
-[Transformers and Large Language Models]{.ph-title}
-:::
+```{=html}
+<div class="book-cover cover-ph wip" aria-hidden="true"><span class="ph-vol">In development</span><span class="ph-title">Transformers and Large Language Models</span></div>
+```
 :::: {.book-info}
 [In development · Working title]{.book-kicker}
 
@@ -138,10 +134,9 @@ A technical textbook exploring the mathematical and computational foundations of
 :::::
 
 ::::: {.book}
-::: {.book-cover .placeholder .wip aria-hidden="true"}
-[En desarrollo]{.ph-vol}
-[Claude y otros demonios]{.ph-title lang="es"}
-:::
+```{=html}
+<div class="book-cover cover-ph wip" aria-hidden="true"><span class="ph-vol">En desarrollo</span><span class="ph-title" lang="es">Claude y otros demonios</span></div>
+```
 :::: {.book-info}
 [In development · Working title · Spanish]{.book-kicker}
 

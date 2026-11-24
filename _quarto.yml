@@ -15,7 +15,7 @@ website:
   favicon: assets/avatar.svg
   navbar:
     pinned: true
-    collapse-below: lg
+    collapse-below: xl
     logo: assets/avatar.svg
     left:
       - href: index.qmd

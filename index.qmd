@@ -150,10 +150,10 @@ I am the author of a four-volume series on statistics, data science, machine lea
 
 ```{=html}
 <ul class="book-strip" aria-label="Julia for Social Scientists, volumes I to IV">
-  <li><a href="books.html" class="book-cover placeholder"><span class="ph-vol">Vol. I</span><span class="ph-title">Using Julia for Introductory Statistics in Social Sciences</span></a></li>
-  <li><a href="books.html" class="book-cover placeholder"><span class="ph-vol">Vol. II</span><span class="ph-title">Intermediate Statistical Modelling with Julia</span></a></li>
-  <li><a href="books.html" class="book-cover placeholder"><span class="ph-vol">Vol. III</span><span class="ph-title">Advanced Data Science and Machine Learning with Julia for Social Scientists</span></a></li>
-  <li><a href="books.html" class="book-cover placeholder"><span class="ph-vol">Vol. IV</span><span class="ph-title">Foundation Models and Agentic AI with Julia for Social Scientists</span></a></li>
+  <li><a href="books.html" class="book-cover cover-ph"><span class="ph-vol">Vol. I</span><span class="ph-title">Using Julia for Introductory Statistics in Social Sciences</span></a></li>
+  <li><a href="books.html" class="book-cover cover-ph"><span class="ph-vol">Vol. II</span><span class="ph-title">Intermediate Statistical Modelling with Julia</span></a></li>
+  <li><a href="books.html" class="book-cover cover-ph"><span class="ph-vol">Vol. III</span><span class="ph-title">Advanced Data Science and Machine Learning with Julia for Social Scientists</span></a></li>
+  <li><a href="books.html" class="book-cover cover-ph"><span class="ph-vol">Vol. IV</span><span class="ph-title">Foundation Models and Agentic AI with Julia for Social Scientists</span></a></li>
 </ul>
 ```
 

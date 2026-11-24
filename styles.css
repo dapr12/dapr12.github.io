@@ -314,7 +314,7 @@ h2.section-title {
   box-shadow: 0 1px 0 var(--line), 0 6px 16px rgba(0, 0, 0, 0.08);
 }
 /* Neutral typographic placeholder until real covers are added */
-.book-cover.placeholder {
+.book-cover.cover-ph {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -326,7 +326,7 @@ h2.section-title {
   text-decoration: none;
   overflow: hidden;
 }
-.book-cover.placeholder.wip { border-top-style: dashed; border-top-color: var(--muted); }
+.book-cover.cover-ph.wip { border-top-style: dashed; border-top-color: var(--muted); }
 .ph-vol {
   font-family: var(--font-mono);
   font-size: 0.66rem;
@@ -379,3 +379,9 @@ h2.section-title {
   .book-grid { grid-template-columns: 1fr; }
   .book-strip { grid-template-columns: repeat(2, minmax(0, 1fr)); max-width: 300px; }
 }
+
+/* ---- Books page heading ---- */
+h1.page-title { margin-top: 1.5rem; }
+
+/* ---- Navbar: keep items on one line ---- */
+.navbar .nav-link { white-space: nowrap; padding-left: .42rem !important; padding-right: .42rem !important; }
