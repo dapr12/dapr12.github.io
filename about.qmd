@@ -8,7 +8,7 @@ title: "About"
 ```{=html}
 <img class="profile-photo" src="assets/profile.jpg" alt="Diego Perez Ruiz">
 <div class="profile-name">Diego Perez Ruiz</div>
-<div class="profile-role">Statistician &amp; Data Analyst</div>
+<div class="profile-role">AI Specialist &amp; Statistician</div>
 <nav class="profile-social" aria-label="Social links">
   <a href="https://github.com/dapr12" aria-label="GitHub"><i class="bi bi-github"></i></a>
   <a href="https://scholar.google.co.uk/citations?hl=en&amp;user=BiUfLu8AAAAJ" aria-label="Google Scholar"><i class="bi bi-mortarboard-fill"></i></a>
@@ -20,9 +20,9 @@ title: "About"
 ::: {.profile-intro}
 ## Hello, and welcome {.intro-head}
 
-Thanks for stopping by. I'm a statistician and data analyst based in Manchester, working at the meeting point of statistical theory and machine learning.
+Thanks for stopping by. I'm an AI specialist and statistician based in Manchester, working at the meeting point of statistics and artificial intelligence.
 
-My work centres on **functional data** and **nonparametric statistics** — methods for making sense of large, noisy datasets and separating the consistent patterns from the noise. I currently work as a Data Analyst at Mosscare St Vincent's Housing Group, and previously held research posts in statistics at the University of Manchester.
+My work centres on **AI and machine learning**, **functional data** and **nonparametric statistics** — methods for making sense of large, noisy datasets and separating the consistent patterns from the noise. I currently work as a Data Analyst at Mosscare St Vincent's Housing Group, and previously held research posts in statistics at the University of Manchester.
 
 You can see what I've been building on the [Projects](projects/index.qmd) and [Software](software.qmd) pages, or get in touch [here](contact.qmd).
 :::

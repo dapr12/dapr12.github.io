@@ -5,12 +5,12 @@ pagetitle: "Diego Perez Ruiz"
 :::: {.hero}
 
 ::: {.hero-text}
-[Statistician · Data Analyst]{.eyebrow}
+[AI Specialist · Statistician]{.eyebrow}
 
 # Diego Perez Ruiz {.hero-title}
 
 ::: {.hero-lede}
-I work on functional data and nonparametric statistics — [sorting through data to separate the consistent patterns from the noise.]{.thesis}
+I work on AI, functional data and nonparametric statistics — [sorting through data to separate the consistent patterns from the noise.]{.thesis}
 :::
 
 ::: {.actions}
@@ -42,7 +42,7 @@ I work on functional data and nonparametric statistics — [sorting through data
 
 [Currently]{.eyebrow}
 
-I'm a **Data Analyst** at Mosscare St Vincent's Housing Group in Manchester, and previously a **Research Associate in Statistics** at the University of Manchester. My interests sit at the meeting point of statistical theory and machine learning: functional data analysis, nonparametric methods, and the challenge of turning large, noisy datasets into something you can actually reason about.
+I'm a **Data Analyst** at Mosscare St Vincent's Housing Group in Manchester, and previously a **Research Associate in Statistics** at the University of Manchester. My interests sit at the meeting point of statistics and AI: machine learning, functional data analysis, nonparametric methods, and the challenge of turning large, noisy datasets into something you can actually reason about.
 
 <hr class="rule">
 
@@ -51,6 +51,7 @@ I'm a **Data Analyst** at Mosscare St Vincent's Housing Group in Manchester, and
 ::: {.chips}
 [Functional data]{.chip}
 [Nonparametric statistics]{.chip}
+[Artificial intelligence]{.chip}
 [Machine learning]{.chip}
 [Deep learning]{.chip}
 [R]{.chip}

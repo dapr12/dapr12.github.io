@@ -8,7 +8,7 @@ project:
 
 website:
   title: "Diego Perez Ruiz"
-  description: "Statistician and data analyst working on functional data and nonparametric statistics at the University of Manchester."
+  description: "AI specialist and statistician working on AI, functional data and nonparametric statistics at the University of Manchester."
   site-url: https://dapr12.github.io
   favicon: assets/avatar.svg
   navbar:
