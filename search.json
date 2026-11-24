@@ -1,24 +1,31 @@
 [
   {
-    "objectID": "books.html",
-    "href": "books.html",
-    "title": "Books",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Diego Andrés Pérez Ruiz",
     "section": "",
-    "text": "Statistics, data science and artificial intelligence for the social sciences.\nMy books bridge mathematical foundations, statistical methodology and computational practice. They are designed for students, researchers and practitioners interested in developing rigorous, reproducible approaches to quantitative social science, from introductory statistics to modern artificial intelligence."
+    "text": "Lecturer in Social Statistics · Researcher\n\n\n\nI develop statistical methods for learning from complex and imperfect data — combining Bayesian inference, survey methodology and artificial intelligence to advance quantitative social science.\n\n\nAbout me Research Download CV\n\n\nGitHub · Scholar · ORCID · University profile · Email\n\n\n\n\n\n  Illustration: three overlapping probability density curves\nCurrently\nI am a Lecturer in Social Statistics at the University of Manchester, where my research focuses on Bayesian statistical methodology, survey inference, data integration and computational statistics.\nMy current work explores how probability and non-probability data sources can be combined to improve statistical inference, how information theory can guide data collection and integration, and how artificial intelligence can support rigorous and reproducible social science research.\nAlongside my research, I teach postgraduate courses in statistics, machine learning and advanced quantitative methods, develop open-source computational resources, and write about data science and artificial intelligence.\nFocus areas"
   },
   {
-    "objectID": "books.html#julia-for-social-scientists-the-book-series",
-    "href": "books.html#julia-for-social-scientists-the-book-series",
-    "title": "Books",
-    "section": "Julia for Social Scientists — The Book Series",
-    "text": "Julia for Social Scientists — The Book Series\nA four-volume series providing a progressive introduction to statistics, statistical modelling, machine learning and artificial intelligence using the Julia programming language.\n\n\n\n\nVol. I Using Julia for Introductory Statistics in Social Sciences\n\n\nVolume I · Published\nUsing Julia for Introductory Statistics in Social Sciences\nDr Diego Andrés Pérez Ruiz\nAn introduction to statistical reasoning, probability, exploratory data analysis and statistical inference using Julia. Designed to establish the mathematical and computational foundations of quantitative social science.\nPaperback · 8 October 2026 · Book 1 of 4\nSearch on Amazon →\n\n\n\n\nVol. II Intermediate Statistical Modelling with Julia\n\n\nVolume II · Published\nIntermediate Statistical Modelling with Julia\nDr Diego Andrés Pérez Ruiz\nA continuation of the introductory volume, focusing on statistical modelling and computational methods for more advanced quantitative research.\nPaperback · 13 October 2026 · Book 2 of 4\nSearch on Amazon →\n\n\n\n\nVol. III Advanced Data Science and Machine Learning with Julia for Social Scientists\n\n\nVolume III · Published\nAdvanced Data Science and Machine Learning with Julia for Social Scientists\nDr Diego Andrés Pérez Ruiz\nAn advanced treatment of computational statistics, machine learning and data science methodologies, connecting mathematical foundations with practical applications in social science research.\nPaperback · 13 October 2026 · Book 3 of 4\nSearch on Amazon →\n\n\n\n\nVol. IV Foundation Models and Agentic AI with Julia for Social Scientists\n\n\nVolume IV · Published\nFoundation Models and Agentic AI with Julia for Social Scientists\nDr Diego Andrés Pérez Ruiz\nAn exploration of modern artificial intelligence, foundation models and agentic systems, connecting computational principles with emerging applications in social science research.\nPaperback · 20 October 2026 · Book 4 of 4\nView on Amazon →"
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Diego Andrés Pérez Ruiz",
+    "section": "Research Interests",
+    "text": "Research Interests\n\n\nBayesian Statistics\nBayesian modelling, hierarchical models, posterior inference and uncertainty quantification.\n\n\nSurvey Data Integration\nIntegration of probability and non-probability samples, selection bias and population-level inference.\n\n\nInformation Theory and Adaptive Survey Design\nEntropy-based stopping rules, estimand-aware prioritisation and information-driven data collection.\n\n\nArtificial Intelligence and Computational Social Science\nAI-augmented data, statistical validity, machine learning and reproducible computational methodology."
   },
   {
-    "objectID": "books.html#current-book-projects",
-    "href": "books.html#current-book-projects",
-    "title": "Books",
-    "section": "Current Book Projects",
-    "text": "Current Book Projects\n\n\n\nIn development Transformers and Large Language Models\n\n\nIn development · Working title\nTransformers and Large Language Models\nDr Diego Andrés Pérez Ruiz\nA technical textbook exploring the mathematical and computational foundations of Transformers and large language models. The intended audience includes advanced undergraduate students, postgraduate students and researchers.\n\n\nMathematical foundations of deep learning\nAttention mechanisms\nTransformer architectures\nTokenisation and embeddings\nLarge language model training\nInference and reasoning\nComputational implementation\nModern AI architectures\n\n\n\n\n\n\nEn desarrollo Claude y otros demonios\n\n\nIn development · Working title · Spanish\nClaude y otros demonios\nDr Diego Andrés Pérez Ruiz\nA book exploring artificial intelligence and its wider intellectual, philosophical and social implications, examining the changing relationship between human intelligence, technology and contemporary society."
+    "objectID": "index.html#selected-research-projects",
+    "href": "index.html#selected-research-projects",
+    "title": "Diego Andrés Pérez Ruiz",
+    "section": "Selected Research Projects",
+    "text": "Selected Research Projects\n\n\nFunded project\n\nBritish Academy/Leverhulme Research Project\nBayesian integration of probability and non-probability samples.\n\n\n\nOngoing research\n\nAdaptive Survey Design\nEstimand-aware subgroup prioritisation.\n\n\n\nOngoing research\n\nBayesian AI-Augmented Social Science Data\nStatistical validity and uncertainty quantification.\n\n\n\nOngoing research\n\nB-AI DataLab\nArtificial intelligence, data analytics and educational research."
+  },
+  {
+    "objectID": "index.html#books-writing",
+    "href": "index.html#books-writing",
+    "title": "Diego Andrés Pérez Ruiz",
+    "section": "Books & Writing",
+    "text": "Books & Writing\nI am the author of a four-volume series on statistics, data science, machine learning and artificial intelligence with Julia for social scientists. My current writing projects extend this work into the mathematical foundations of large language models and the broader intellectual implications of artificial intelligence.\n\n  Vol. IUsing Julia for Introductory Statistics in Social Sciences\n  Vol. IIIntermediate Statistical Modelling with Julia\n  Vol. IIIAdvanced Data Science and Machine Learning with Julia for Social Scientists\n  Vol. IVFoundation Models and Agentic AI with Julia for Social Scientists\n\nExplore all books →"
   },
   {
     "objectID": "projects/index.html",
@@ -49,13 +56,6 @@
     "text": "Notes\n\nFeature extraction and classification on high-dimensional biomedical data.\nEmphasis on reproducibility and interpretable outputs for clinical collaborators.\n\nReplace this text with a fuller write-up, figures, or embedded analysis whenever you’re ready — this page can run live R/Python/Julia code."
   },
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Writing\nNotes on statistics, data, and the occasional bit of code.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHello from a Quarto site\n\n\n\nMeta\n\n\n\n\nA first post, and a quick note on why the site moved to Quarto.\n\n\n\n\n\n\nJan 20, 2026\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "podcast/episodes/welcome-episode/index.html",
     "href": "podcast/episodes/welcome-episode/index.html",
     "title": "Episode 1 — Pilot",
@@ -77,53 +77,11 @@
     "text": "Show notes\n\nTopic one\nTopic two\nLinks mentioned"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Diego Andrés Pérez Ruiz",
+    "objectID": "blog/posts/welcome/index.html",
+    "href": "blog/posts/welcome/index.html",
+    "title": "Hello from a Quarto site",
     "section": "",
-    "text": "Lecturer in Social Statistics · Researcher\n\n\n\nI develop statistical methods for learning from complex and imperfect data — combining Bayesian inference, survey methodology and artificial intelligence to advance quantitative social science.\n\n\nAbout me Research Download CV\n\n\nGitHub · Scholar · ORCID · University profile · Email\n\n\n\n\n\n  Illustration: three overlapping probability density curves\nCurrently\nI am a Lecturer in Social Statistics at the University of Manchester, where my research focuses on Bayesian statistical methodology, survey inference, data integration and computational statistics.\nMy current work explores how probability and non-probability data sources can be combined to improve statistical inference, how information theory can guide data collection and integration, and how artificial intelligence can support rigorous and reproducible social science research.\nAlongside my research, I teach postgraduate courses in statistics, machine learning and advanced quantitative methods, develop open-source computational resources, and write about data science and artificial intelligence.\nFocus areas"
-  },
-  {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Diego Andrés Pérez Ruiz",
-    "section": "Research Interests",
-    "text": "Research Interests\n\n\nBayesian Statistics\nBayesian modelling, hierarchical models, posterior inference and uncertainty quantification.\n\n\nSurvey Data Integration\nIntegration of probability and non-probability samples, selection bias and population-level inference.\n\n\nInformation Theory and Adaptive Survey Design\nEntropy-based stopping rules, estimand-aware prioritisation and information-driven data collection.\n\n\nArtificial Intelligence and Computational Social Science\nAI-augmented data, statistical validity, machine learning and reproducible computational methodology."
-  },
-  {
-    "objectID": "index.html#selected-research-projects",
-    "href": "index.html#selected-research-projects",
-    "title": "Diego Andrés Pérez Ruiz",
-    "section": "Selected Research Projects",
-    "text": "Selected Research Projects\n\n\nFunded project\n\nBritish Academy/Leverhulme Research Project\nBayesian integration of probability and non-probability samples.\n\n\n\nOngoing research\n\nAdaptive Survey Design\nEstimand-aware subgroup prioritisation.\n\n\n\nOngoing research\n\nBayesian AI-Augmented Social Science Data\nStatistical validity and uncertainty quantification.\n\n\n\nOngoing research\n\nB-AI DataLab\nArtificial intelligence, data analytics and educational research."
-  },
-  {
-    "objectID": "index.html#books-writing",
-    "href": "index.html#books-writing",
-    "title": "Diego Andrés Pérez Ruiz",
-    "section": "Books & Writing",
-    "text": "Books & Writing\nI am the author of a four-volume series on statistics, data science, machine learning and artificial intelligence with Julia for social scientists. My current writing projects extend this work into the mathematical foundations of large language models and the broader intellectual implications of artificial intelligence.\n\n  Vol. IUsing Julia for Introductory Statistics in Social Sciences\n  Vol. IIIntermediate Statistical Modelling with Julia\n  Vol. IIIAdvanced Data Science and Machine Learning with Julia for Social Scientists\n  Vol. IVFoundation Models and Agentic AI with Julia for Social Scientists\n\nExplore all books →"
-  },
-  {
-    "objectID": "publications/index.html",
-    "href": "publications/index.html",
-    "title": "Latest Publications",
-    "section": "",
-    "text": "Research output\nA list of publications and preprints. The full and most current record lives on Google Scholar."
-  },
-  {
-    "objectID": "publications/index.html#section",
-    "href": "publications/index.html#section",
-    "title": "Latest Publications",
-    "section": "2024",
-    "text": "2024\n\n\n2024\n\n\nYour paper title goes here\nJournal or venue · co-authors\nShort summary of the contribution. PDF DOI\n\n\nDuplicate the block above for each publication, or switch to the .bib workflow described in the note."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Get in touch\nI’m based at the University of Manchester, Oxford Rd, Manchester M13 9PL.\nThe quickest way to reach me:\n\nEmail · GitHub · Google Scholar\n\n\n\n\n\n\n\n\nWant a working contact form? Quarto sites are static, so a form needs a small third-party service. Formspree is the simplest: create a free form, then drop its endpoint into the HTML below and uncomment it."
+    "text": "Welcome to the new site. It’s built with Quarto, which means posts like this one can mix prose with live R, Python, or Julia — the same tools I use day to day.\nHere’s a code block to prove the point (display-only for now):\nlibrary(ggplot2)\n\n# kernel density estimate — the motif in the site logo\nggplot(faithful, aes(waiting)) +\n  geom_density(fill = \"#1E5C4A\", alpha = 0.15, colour = \"#1E5C4A\") +\n  theme_minimal()\nTo make code actually execute when the site builds, install R (or Python/Julia) and set execute: true in the front matter. More soon."
   },
   {
     "objectID": "about.html",
@@ -138,6 +96,34 @@
     "title": "About",
     "section": "",
     "text": "Thanks for stopping by. I’m an AI specialist and statistician based in Manchester, working at the meeting point of statistics and artificial intelligence.\nMy work centres on AI and machine learning, functional data and nonparametric statistics — methods for making sense of large, noisy datasets and separating the consistent patterns from the noise. I currently work as a Data Analyst at Mosscare St Vincent’s Housing Group, and previously held research posts in statistics at the University of Manchester.\nYou can see what I’ve been building on the Projects and Software pages, or get in touch here."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Get in touch\nI’m based at the University of Manchester, Oxford Rd, Manchester M13 9PL.\nThe quickest way to reach me:\n\nEmail · GitHub · Google Scholar\n\n\n\n\n\n\n\n\nWant a working contact form? Quarto sites are static, so a form needs a small third-party service. Formspree is the simplest: create a free form, then drop its endpoint into the HTML below and uncomment it."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "In the classroom\nCourses, workshops, and supervision in statistics, data analysis, and scientific computing. I care about making statistical ideas usable — helping people move from “what does this output mean?” to reasoning confidently about their own data.\n\nCourses & workshops\n\n\nYear\n\n\nCourse or workshop title\nInstitution · role (lecturer / TA / instructor)\nOne or two lines on the topic, level, and tools used (R / Python / Julia).\n\n\n\n\nYear\n\n\nAnother course or workshop\nInstitution · role\nShort description.\n\n\n\n\n\n\n\n\nReplace the two entries above with your real teaching. Duplicate the ::: {.entry} block for each one — same format as the Experience section on the About page.\n\n\n\n\nMaterials\nLink to slides, notebooks, or repositories here — for example a GitHub repo of course materials, or published notes."
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Latest Publications",
+    "section": "",
+    "text": "Research output\nA list of publications and preprints. The full and most current record lives on Google Scholar."
+  },
+  {
+    "objectID": "publications/index.html#section",
+    "href": "publications/index.html#section",
+    "title": "Latest Publications",
+    "section": "2024",
+    "text": "2024\n\n\n2024\n\n\nYour paper title goes here\nJournal or venue · co-authors\nShort summary of the contribution. PDF DOI\n\n\nDuplicate the block above for each publication, or switch to the .bib workflow described in the note."
   },
   {
     "objectID": "software.html",
@@ -168,25 +154,39 @@
     "text": "Apps\nInteractive tools, dashboards, and web apps that make methods usable without code.\n\n\nshiny-explorer\nA Shiny app for exploring a dataset or model interactively.\nLaunch → · Source →\n\n\ndashboard\nA small dashboard built with Quarto / Observable.\nLaunch → · Source →"
   },
   {
+    "objectID": "books.html",
+    "href": "books.html",
+    "title": "Books",
+    "section": "",
+    "text": "Statistics, data science and artificial intelligence for the social sciences.\nMy books bridge mathematical foundations, statistical methodology and computational practice. They are designed for students, researchers and practitioners interested in developing rigorous, reproducible approaches to quantitative social science, from introductory statistics to modern artificial intelligence.\n\n\n\nA four-volume series providing a progressive introduction to statistics, statistical modelling, machine learning and artificial intelligence using the Julia programming language.\n\n\n\nVol. IUsing Julia for Introductory Statistics in Social Sciences\n\nVolume I · Published\nUsing Julia for Introductory Statistics in Social Sciences\nDr Diego Andrés Pérez Ruiz\nAn introduction to statistical reasoning, probability, exploratory data analysis and statistical inference using Julia. Designed to establish the mathematical and computational foundations of quantitative social science.\nPaperback · 8 October 2026 · Book 1 of 4\nSearch on Amazon →\n\n\n\nVol. IIIntermediate Statistical Modelling with Julia\n\nVolume II · Published\nIntermediate Statistical Modelling with Julia\nDr Diego Andrés Pérez Ruiz\nA continuation of the introductory volume, focusing on statistical modelling and computational methods for more advanced quantitative research.\nPaperback · 13 October 2026 · Book 2 of 4\nSearch on Amazon →\n\n\n\nVol. IIIAdvanced Data Science and Machine Learning with Julia for Social Scientists\n\nVolume III · Published\nAdvanced Data Science and Machine Learning with Julia for Social Scientists\nDr Diego Andrés Pérez Ruiz\nAn advanced treatment of computational statistics, machine learning and data science methodologies, connecting mathematical foundations with practical applications in social science research.\nPaperback · 13 October 2026 · Book 3 of 4\nSearch on Amazon →\n\n\n\nVol. IVFoundation Models and Agentic AI with Julia for Social Scientists\n\nVolume IV · Published\nFoundation Models and Agentic AI with Julia for Social Scientists\nDr Diego Andrés Pérez Ruiz\nAn exploration of modern artificial intelligence, foundation models and agentic systems, connecting computational principles with emerging applications in social science research.\nPaperback · 20 October 2026 · Book 4 of 4\nView on Amazon →\n\n\n\n\n\n\n\n\n\nIn developmentTransformers and Large Language Models\n\nIn development · Working title\nTransformers and Large Language Models\nDr Diego Andrés Pérez Ruiz\nA technical textbook exploring the mathematical and computational foundations of Transformers and large language models. The intended audience includes advanced undergraduate students, postgraduate students and researchers.\n\n\nMathematical foundations of deep learning\nAttention mechanisms\nTransformer architectures\nTokenisation and embeddings\nLarge language model training\nInference and reasoning\nComputational implementation\nModern AI architectures\n\n\n\n\n\nEn desarrolloClaude y otros demonios\n\nIn development · Working title · Spanish\nClaude y otros demonios\nDr Diego Andrés Pérez Ruiz\nA book exploring artificial intelligence and its wider intellectual, philosophical and social implications, examining the changing relationship between human intelligence, technology and contemporary society."
+  },
+  {
+    "objectID": "books.html#julia-for-social-scientists-the-book-series",
+    "href": "books.html#julia-for-social-scientists-the-book-series",
+    "title": "Books",
+    "section": "",
+    "text": "A four-volume series providing a progressive introduction to statistics, statistical modelling, machine learning and artificial intelligence using the Julia programming language.\n\n\n\nVol. IUsing Julia for Introductory Statistics in Social Sciences\n\nVolume I · Published\nUsing Julia for Introductory Statistics in Social Sciences\nDr Diego Andrés Pérez Ruiz\nAn introduction to statistical reasoning, probability, exploratory data analysis and statistical inference using Julia. Designed to establish the mathematical and computational foundations of quantitative social science.\nPaperback · 8 October 2026 · Book 1 of 4\nSearch on Amazon →\n\n\n\nVol. IIIntermediate Statistical Modelling with Julia\n\nVolume II · Published\nIntermediate Statistical Modelling with Julia\nDr Diego Andrés Pérez Ruiz\nA continuation of the introductory volume, focusing on statistical modelling and computational methods for more advanced quantitative research.\nPaperback · 13 October 2026 · Book 2 of 4\nSearch on Amazon →\n\n\n\nVol. IIIAdvanced Data Science and Machine Learning with Julia for Social Scientists\n\nVolume III · Published\nAdvanced Data Science and Machine Learning with Julia for Social Scientists\nDr Diego Andrés Pérez Ruiz\nAn advanced treatment of computational statistics, machine learning and data science methodologies, connecting mathematical foundations with practical applications in social science research.\nPaperback · 13 October 2026 · Book 3 of 4\nSearch on Amazon →\n\n\n\nVol. IVFoundation Models and Agentic AI with Julia for Social Scientists\n\nVolume IV · Published\nFoundation Models and Agentic AI with Julia for Social Scientists\nDr Diego Andrés Pérez Ruiz\nAn exploration of modern artificial intelligence, foundation models and agentic systems, connecting computational principles with emerging applications in social science research.\nPaperback · 20 October 2026 · Book 4 of 4\nView on Amazon →"
+  },
+  {
+    "objectID": "books.html#current-book-projects",
+    "href": "books.html#current-book-projects",
+    "title": "Books",
+    "section": "",
+    "text": "In developmentTransformers and Large Language Models\n\nIn development · Working title\nTransformers and Large Language Models\nDr Diego Andrés Pérez Ruiz\nA technical textbook exploring the mathematical and computational foundations of Transformers and large language models. The intended audience includes advanced undergraduate students, postgraduate students and researchers.\n\n\nMathematical foundations of deep learning\nAttention mechanisms\nTransformer architectures\nTokenisation and embeddings\nLarge language model training\nInference and reasoning\nComputational implementation\nModern AI architectures\n\n\n\n\n\nEn desarrolloClaude y otros demonios\n\nIn development · Working title · Spanish\nClaude y otros demonios\nDr Diego Andrés Pérez Ruiz\nA book exploring artificial intelligence and its wider intellectual, philosophical and social implications, examining the changing relationship between human intelligence, technology and contemporary society."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Writing\nNotes on statistics, data, and the occasional bit of code.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHello from a Quarto site\n\n\n\nMeta\n\n\n\n\nA first post, and a quick note on why the site moved to Quarto.\n\n\n\n\n\n\nJan 20, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "podcast/index.html",
     "href": "podcast/index.html",
     "title": "AI Podcast",
     "section": "",
     "text": "Conversations on AI & statistics\nA podcast about machine learning, statistics, and the people building with them — accessible discussions that connect methods to real-world use. New episodes are listed below.\n\nApple Podcasts · Spotify · RSS\n\n\n\n\n\n\n\n\n\n\n\nEpisode 1 — Pilot\n\n\n\nA first conversation: what this podcast is about and where it’s headed.\n\n\n\n\n\n\nJan 25, 2026\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog/posts/welcome/index.html",
-    "href": "blog/posts/welcome/index.html",
-    "title": "Hello from a Quarto site",
-    "section": "",
-    "text": "Welcome to the new site. It’s built with Quarto, which means posts like this one can mix prose with live R, Python, or Julia — the same tools I use day to day.\nHere’s a code block to prove the point (display-only for now):\nlibrary(ggplot2)\n\n# kernel density estimate — the motif in the site logo\nggplot(faithful, aes(waiting)) +\n  geom_density(fill = \"#1E5C4A\", alpha = 0.15, colour = \"#1E5C4A\") +\n  theme_minimal()\nTo make code actually execute when the site builds, install R (or Python/Julia) and set execute: true in the front matter. More soon."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "In the classroom\nCourses, workshops, and supervision in statistics, data analysis, and scientific computing. I care about making statistical ideas usable — helping people move from “what does this output mean?” to reasoning confidently about their own data.\n\nCourses & workshops\n\n\nYear\n\n\nCourse or workshop title\nInstitution · role (lecturer / TA / instructor)\nOne or two lines on the topic, level, and tools used (R / Python / Julia).\n\n\n\n\nYear\n\n\nAnother course or workshop\nInstitution · role\nShort description.\n\n\n\n\n\n\n\n\nReplace the two entries above with your real teaching. Duplicate the ::: {.entry} block for each one — same format as the Experience section on the About page.\n\n\n\n\nMaterials\nLink to slides, notebooks, or repositories here — for example a GitHub repo of course materials, or published notes."
   },
   {
     "objectID": "projects/hypoglycaemia-cgm.html",
