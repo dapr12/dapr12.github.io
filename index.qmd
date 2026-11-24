@@ -1,34 +1,38 @@
 ---
-pagetitle: "Diego Perez Ruiz"
+pagetitle: "Diego Andrés Pérez Ruiz | Lecturer in Social Statistics"
+description: "Lecturer in Social Statistics at the University of Manchester. Research in Bayesian inference, survey methodology, data integration, information theory and artificial intelligence."
 ---
 
 :::: {.hero}
 
 ::: {.hero-text}
-[AI Specialist · Statistician]{.eyebrow}
+[Lecturer in Social Statistics · Researcher]{.eyebrow}
 
-# Diego Perez Ruiz {.hero-title}
+# Diego Andrés Pérez Ruiz {.hero-title}
 
 ::: {.hero-lede}
-I work on AI, functional data and nonparametric statistics — [sorting through data to separate the consistent patterns from the noise.]{.thesis}
+I develop statistical methods for learning from complex and imperfect data — [combining Bayesian inference, survey methodology and artificial intelligence to advance quantitative social science.]{.thesis}
 :::
 
 ::: {.actions}
 [About me](about.qmd){.btn-pine .solid}
-[Projects](projects/index.qmd){.btn-pine .ghost}
+[Research](projects/index.qmd){.btn-pine .ghost}
 [Download CV](assets/cv.pdf){.btn-pine .ghost}
 :::
 
 ::: {.social}
 [GitHub](https://github.com/dapr12) ·
 [Scholar](https://scholar.google.co.uk/citations?hl=en&user=BiUfLu8AAAAJ) ·
+[ORCID](https://orcid.org/0000-0002-9969-6065) ·
+[University profile](https://research.manchester.ac.uk/en/persons/diego.perezruiz/) ·
 [Email](contact.qmd)
 :::
 :::
 
 ::: {.hero-figure}
 ```{=html}
-<svg viewBox="0 0 640 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Overlapping kernel density estimates">
+<svg viewBox="0 0 640 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="hero-fig-title">
+  <title id="hero-fig-title">Illustration: three overlapping probability density curves</title>
   <path d="M40 180 C 140 180, 180 50, 260 50 C 340 50, 380 180, 480 180 L 480 180 L 40 180 Z" style="fill:var(--band)"/>
   <path d="M40 180 C 140 180, 180 50, 260 50 C 340 50, 380 180, 480 180" fill="none" style="stroke:var(--accent)" stroke-width="2.4" stroke-linecap="round"/>
   <path d="M150 180 C 250 180, 300 26, 360 26 C 420 26, 470 180, 590 180" fill="none" style="stroke:var(--accent-2)" stroke-width="2.2" stroke-linecap="round"/>
@@ -42,19 +46,98 @@ I work on AI, functional data and nonparametric statistics — [sorting through 
 
 [Currently]{.eyebrow}
 
-I'm a **Data Analyst** at Mosscare St Vincent's Housing Group in Manchester, and previously a **Research Associate in Statistics** at the University of Manchester. My interests sit at the meeting point of statistics and AI: machine learning, functional data analysis, nonparametric methods, and the challenge of turning large, noisy datasets into something you can actually reason about.
+I am a **Lecturer in Social Statistics at the University of Manchester**, where my research focuses on Bayesian statistical methodology, survey inference, data integration and computational statistics.
+
+My current work explores how probability and non-probability data sources can be combined to improve statistical inference, how information theory can guide data collection and integration, and how artificial intelligence can support rigorous and reproducible social science research.
+
+Alongside my research, I teach postgraduate courses in statistics, machine learning and advanced quantitative methods, develop open-source computational resources, and write about data science and artificial intelligence.
 
 <hr class="rule">
 
 [Focus areas]{.eyebrow}
 
 ::: {.chips}
-[Functional data]{.chip}
-[Nonparametric statistics]{.chip}
-[Artificial intelligence]{.chip}
-[Machine learning]{.chip}
-[Deep learning]{.chip}
+[Bayesian Statistics]{.chip}
+[Survey Methodology]{.chip}
+[Probability and Non-Probability Sample Integration]{.chip}
+[Information Theory and Entropy]{.chip}
+[Adaptive Survey Design]{.chip}
+[Artificial Intelligence]{.chip}
+[Uncertainty Quantification]{.chip}
+[Computational Social Science]{.chip}
 [R]{.chip}
 [Python]{.chip}
 [Julia]{.chip}
 :::
+
+<hr class="rule">
+
+## Research Interests {.section-title}
+
+:::: {.pillars}
+
+::: {.pillar}
+### Bayesian Statistics
+
+Bayesian modelling, hierarchical models, posterior inference and uncertainty quantification.
+:::
+
+::: {.pillar}
+### Survey Data Integration
+
+Integration of probability and non-probability samples, selection bias and population-level inference.
+:::
+
+::: {.pillar}
+### Information Theory and Adaptive Survey Design
+
+Entropy-based stopping rules, estimand-aware prioritisation and information-driven data collection.
+:::
+
+::: {.pillar}
+### Artificial Intelligence and Computational Social Science
+
+AI-augmented data, statistical validity, machine learning and reproducible computational methodology.
+:::
+
+::::
+
+<hr class="rule">
+
+## Selected Research Projects {.section-title}
+
+:::: {.research-list}
+
+::: {.research-item}
+[Funded project]{.research-tag}
+
+### British Academy/Leverhulme Research Project
+
+Bayesian integration of probability and non-probability samples.
+:::
+
+::: {.research-item}
+[Ongoing research]{.research-tag}
+
+### Adaptive Survey Design
+
+Estimand-aware subgroup prioritisation.
+:::
+
+::: {.research-item}
+[Ongoing research]{.research-tag}
+
+### Bayesian AI-Augmented Social Science Data
+
+Statistical validity and uncertainty quantification.
+:::
+
+::: {.research-item}
+[Ongoing research]{.research-tag}
+
+### B-AI DataLab
+
+Artificial intelligence, data analytics and educational research.
+:::
+
+::::

@@ -247,3 +247,47 @@ a:focus-visible, .btn-pine:focus-visible {
   .profile { grid-template-columns: 1fr; gap: 1.5rem; }
   .profile-card { max-width: 320px; margin: 0 auto; }
 }
+
+/* ---- Home: section headings ---- */
+.section-title {
+  font-family: var(--font-display);
+  font-size: 1.6rem;
+  margin: 0 0 1.4rem;
+  border-bottom: none;
+}
+
+/* ---- Home: research pillars (2 columns desktop, 1 mobile) ---- */
+.pillars {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0 2.5rem;
+}
+.pillar {
+  border-top: 2px solid var(--accent);
+  padding: 1rem 0 1.4rem;
+}
+.pillar h3 {
+  font-size: 1.12rem;
+  margin: 0 0 0.45rem;
+}
+.pillar p { color: var(--muted); margin: 0; }
+
+/* ---- Home: selected research projects ---- */
+.research-list { border-top: 1px solid var(--line); }
+.research-item {
+  padding: 1.1rem 0;
+  border-bottom: 1px solid var(--line);
+}
+.research-item h3 { font-size: 1.08rem; margin: 0.15rem 0 0.3rem; }
+.research-item p { color: var(--muted); margin: 0; }
+.research-tag {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+@media (max-width: 720px) {
+  .pillars { grid-template-columns: 1fr; }
+}

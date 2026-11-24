@@ -2,6 +2,9 @@ name: Build and publish site
 
 # Edit the site on the `source` branch. Every push there renders the
 # Quarto site and publishes the result to `master`, which GitHub Pages serves.
+# Publishing adds a normal commit on top of `master` (no force-push), so
+# master keeps its history. Content changes belong in the .qmd sources here:
+# anything edited directly in master's HTML is replaced on the next build.
 on:
   push:
     branches: [source]
@@ -37,5 +40,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: master
           publish_dir: ./_site
-          force_orphan: true
           commit_message: "Publish site from"
