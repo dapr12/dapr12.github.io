@@ -128,9 +128,23 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Diego Perez Ruiz",
+    "title": "Diego Andrés Pérez Ruiz",
     "section": "",
-    "text": "AI Specialist · Statistician\n\nDiego Perez Ruiz\n\nI work on AI, functional data and nonparametric statistics — sorting through data to separate the consistent patterns from the noise.\n\n\nAbout me Projects Download CV\n\n\nGitHub · Scholar · Email\n\n\n\n\n\n  \n  \n  \n  \n  \n\n\n\nCurrently\nI’m a Data Analyst at Mosscare St Vincent’s Housing Group in Manchester, and previously a Research Associate in Statistics at the University of Manchester. My interests sit at the meeting point of statistics and AI: machine learning, functional data analysis, nonparametric methods, and the challenge of turning large, noisy datasets into something you can actually reason about.\n\nFocus areas\n\nFunctional data Nonparametric statistics Artificial intelligence Machine learning Deep learning R Python Julia"
+    "text": "Lecturer in Social Statistics · Researcher\n\n\n\nI develop statistical methods for learning from complex and imperfect data — combining Bayesian inference, survey methodology and artificial intelligence to advance quantitative social science.\n\n\nAbout me Research Download CV\n\n\nGitHub · Scholar · ORCID · University profile · Email\n\n\n\n\n\n  Illustration: three overlapping probability density curves\nCurrently\nI am a Lecturer in Social Statistics at the University of Manchester, where my research focuses on Bayesian statistical methodology, survey inference, data integration and computational statistics.\nMy current work explores how probability and non-probability data sources can be combined to improve statistical inference, how information theory can guide data collection and integration, and how artificial intelligence can support rigorous and reproducible social science research.\nAlongside my research, I teach postgraduate courses in statistics, machine learning and advanced quantitative methods, develop open-source computational resources, and write about data science and artificial intelligence.\nFocus areas"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Diego Andrés Pérez Ruiz",
+    "section": "Research Interests",
+    "text": "Research Interests\n\n\nBayesian Statistics\nBayesian modelling, hierarchical models, posterior inference and uncertainty quantification.\n\n\nSurvey Data Integration\nIntegration of probability and non-probability samples, selection bias and population-level inference.\n\n\nInformation Theory and Adaptive Survey Design\nEntropy-based stopping rules, estimand-aware prioritisation and information-driven data collection.\n\n\nArtificial Intelligence and Computational Social Science\nAI-augmented data, statistical validity, machine learning and reproducible computational methodology."
+  },
+  {
+    "objectID": "index.html#selected-research-projects",
+    "href": "index.html#selected-research-projects",
+    "title": "Diego Andrés Pérez Ruiz",
+    "section": "Selected Research Projects",
+    "text": "Selected Research Projects\n\n\nFunded project\n\nBritish Academy/Leverhulme Research Project\nBayesian integration of probability and non-probability samples.\n\n\n\nOngoing research\n\nAdaptive Survey Design\nEstimand-aware subgroup prioritisation.\n\n\n\nOngoing research\n\nBayesian AI-Augmented Social Science Data\nStatistical validity and uncertainty quantification.\n\n\n\nOngoing research\n\nB-AI DataLab\nArtificial intelligence, data analytics and educational research."
   },
   {
     "objectID": "podcast/episodes/welcome-episode/index.html",
