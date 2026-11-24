@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Diego Perez Ruiz</title>
+<link>https://dapr12.github.io/podcast/</link>
+<atom:link href="https://dapr12.github.io/podcast/index.xml" rel="self" type="application/rss+xml"/>
+<description>AI specialist and statistician working on AI, functional data and nonparametric statistics at the University of Manchester.</description>
+<generator>quarto-1.11.9</generator>
+<lastBuildDate>Sun, 25 Jan 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Episode 1 — Pilot</title>
+  <link>https://dapr12.github.io/podcast/episodes/welcome-episode/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>A short intro episode. Replace this text with show notes, guest bios, and links.</p>
+<section id="listen" class="level2">
+<h2 class="anchored" data-anchor-id="listen">Listen</h2>
+<p>Embed a player by pasting the “share → embed” code from your podcast host, or put an audio file in this folder and add an <code>&lt;audio controls src="episode-01.mp3"&gt;</code> element here.</p>
+</section>
+<section id="show-notes" class="level2">
+<h2 class="anchored" data-anchor-id="show-notes">Show notes</h2>
+<ul>
+<li>Topic one</li>
+<li>Topic two</li>
+<li>Links mentioned</li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Machine learning</category>
+  <guid>https://dapr12.github.io/podcast/episodes/welcome-episode/</guid>
+  <pubDate>Sun, 25 Jan 2026 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

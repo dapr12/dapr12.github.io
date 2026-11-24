@@ -1,0 +1,22 @@
+[
+  {
+    "listing": "/podcast/index.html",
+    "items": [
+      "/podcast/episodes/welcome-episode/index.html"
+    ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": [
+      "/projects/rare-disease-ml.html",
+      "/projects/hypoglycaemia-cgm.html",
+      "/projects/cycling-accidents.html"
+    ]
+  }
+]
