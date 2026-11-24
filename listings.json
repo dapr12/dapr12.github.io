@@ -1,8 +1,10 @@
 [
   {
-    "listing": "/podcast/index.html",
+    "listing": "/projects/index.html",
     "items": [
-      "/podcast/episodes/welcome-episode/index.html"
+      "/projects/rare-disease-ml.html",
+      "/projects/hypoglycaemia-cgm.html",
+      "/projects/cycling-accidents.html"
     ]
   },
   {
@@ -12,11 +14,9 @@
     ]
   },
   {
-    "listing": "/projects/index.html",
+    "listing": "/podcast/index.html",
     "items": [
-      "/projects/rare-disease-ml.html",
-      "/projects/hypoglycaemia-cgm.html",
-      "/projects/cycling-accidents.html"
+      "/podcast/episodes/welcome-episode/index.html"
     ]
   }
 ]
