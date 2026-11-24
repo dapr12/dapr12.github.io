@@ -5,6 +5,8 @@ project:
     port: 4200
   resources:
     - assets/cv.pdf
+  post-render:
+    - _scripts/home-title.py
 
 website:
   title: "Diego Perez Ruiz"

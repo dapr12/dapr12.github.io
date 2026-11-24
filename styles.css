@@ -249,7 +249,8 @@ a:focus-visible, .btn-pine:focus-visible {
 }
 
 /* ---- Home: section headings ---- */
-.section-title {
+/* Pandoc also puts the class on the wrapping <section>; style the heading only */
+h2.section-title {
   font-family: var(--font-display);
   font-size: 1.6rem;
   margin: 0 0 1.4rem;
